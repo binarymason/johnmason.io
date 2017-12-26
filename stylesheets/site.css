@@ -1675,7 +1675,7 @@ body {
           flex-direction: column;
   top: 0;
   min-height: 100%;
-  width: 100%;
+  width: 96%;
   background-color: #f3f3f3;
   color: #636363;
   font-family: "Lato", "Lucida Grande", "Tahoma", sans-serif;
@@ -1774,7 +1774,8 @@ p {
   text-align: left;
   font-size: 14px;
   text-transform: uppercase;
-  margin: 20px; }
+  margin: 20px;
+  width: 100%; }
 
 .nav {
   position: fixed;
