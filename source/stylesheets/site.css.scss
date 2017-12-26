@@ -70,6 +70,7 @@ article h1 {
 
 .pagination {
   font-size: 14px;
+  font-weight: bold;
   position: relative;
 }
 
@@ -78,7 +79,7 @@ article h1 {
   right: 0;
 }
 
-.container a {
+.underline {
   border-bottom: 2px solid lightblue;
   &:before {
     content: "";
