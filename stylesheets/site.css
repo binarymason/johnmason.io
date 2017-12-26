@@ -1720,15 +1720,16 @@ article h1 {
 
 .pagination {
   font-size: 14px;
+  font-weight: bold;
   position: relative; }
 
 .prev {
   position: absolute;
   right: 0; }
 
-.container a {
+.underline {
   border-bottom: 2px solid lightblue; }
-  .container a:before {
+  .underline:before {
     content: "";
     position: absolute;
     width: 100%;
@@ -1740,7 +1741,7 @@ article h1 {
     transform: scaleX(0);
     -webkit-transition: all 0.4s ease-in-out 0s;
     transition: all 0.4s ease-in-out 0s; }
-  .container a:hover:before {
+  .underline:hover:before {
     background-color: orange;
     visibility: visible;
     -webkit-transform: scaleX(1);
