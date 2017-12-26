@@ -12,6 +12,8 @@ html, body {
 
 body {
   position: absolute;
+  display: flex;
+  flex-direction: column;
   top: 0;
   min-height: 100%;
   width: 100%;
@@ -22,12 +24,55 @@ body {
   vertical-align: baseline;
 }
 
-.container a {
+a {
   color: rgba(#000, 0.7);
   outline: none;
   text-decoration: none;
-  border-bottom: 2px solid lightblue;
+}
 
+article {
+  height: 75vh;
+}
+
+article a {
+  &:hover {
+    color: rgba(#000, 0.5);
+  }
+}
+
+article p {
+  font-size: 24px;
+  text-align: justify;
+}
+
+article h1 {
+  font-size: 56px;
+  text-align: center;
+  margin-bottom: 24px;
+}
+
+.article-title-divider {
+  background-color: orange;
+  width: 100%;
+  margin: 0 auto 24px auto;
+  height: 3px;
+  border-radius: 2px;
+  display: block;
+}
+
+
+.pagination {
+  font-size: 14px;
+  position: relative;
+}
+
+.prev {
+  position: absolute;
+  right: 0;
+}
+
+.container a {
+  border-bottom: 2px solid lightblue;
   &:before {
     content: "";
     position: absolute;
@@ -65,15 +110,10 @@ p {
   font-size: 18px;
 }
 
-
-.header-container {
-  text-align: left;
-  font-size: 14px;
-  text-transform: uppercase;
-  margin: 20px;
+.zen-fade {
   transition: all 0.3s ease-in-out 0s;
 
-  opacity: 0.3;
+  opacity: 0.2;
 
   &:hover {
     opacity: 1;
@@ -84,6 +124,17 @@ p {
     text-decoration: none;
     color: rgba(#000, 0.7);
   }
+}
+
+.uppercase {
+  text-transform: uppercase;
+}
+
+.header-container {
+  text-align: left;
+  font-size: 14px;
+  text-transform: uppercase;
+  margin: 20px;
 }
 
 .nav {
@@ -105,12 +156,12 @@ p {
 
 .container {
   max-width: 700px;
-  margin: auto;
+  width: 100%;
+  margin: 0 auto;
   padding: 0 1em;
 }
 
 .article-year {
-  color: black;
 }
 
 .article-ref {

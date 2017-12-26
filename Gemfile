@@ -8,4 +8,6 @@ gem 'middleman-blog'
 gem 'middleman-gh-pages'
 gem 'middleman-livereload'
 gem 'middleman-sprockets', '~> 4.0'
+gem 'redcarpet'
+gem 'nokogiri'
 
