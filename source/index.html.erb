@@ -1,3 +1,9 @@
+<script>
+document.body.className += ' fade-out';
+
+window.onload = () => { document.body.classList.remove('fade-out'); }
+</script>
+
 <ul>
   <% blog.articles.group_by {|a| a.date.year }.each do |year, articles| %>
     <h3 class="article-year"><%= year %></h3>
