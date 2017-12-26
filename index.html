@@ -24,7 +24,13 @@
 
 
     <div class="container">
-      <ul>
+      <script>
+document.body.className += ' fade-out';
+
+window.onload = () => { document.body.classList.remove('fade-out'); }
+</script>
+
+<ul>
     <h3 class="article-year">2017</h3>
       <li class="article-ref">
         <span class="article-date">December 12</span>
