@@ -1761,9 +1761,9 @@ p {
 .zen-fade {
   -webkit-transition: all 0.3s ease-in-out 0s;
   transition: all 0.3s ease-in-out 0s;
-  opacity: 0.2; }
+  opacity: 0.1; }
   .zen-fade:hover {
-    opacity: 1; }
+    opacity: 0.6; }
   .zen-fade a {
     text-decoration: none;
     color: rgba(0, 0, 0, 0.7); }
