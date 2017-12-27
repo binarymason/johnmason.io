@@ -1758,9 +1758,11 @@ p {
   font-weight: bold;
   font-size: 18px; }
 
-.zen-fade {
+.fade {
   -webkit-transition: all 0.3s ease-in-out 0s;
-  transition: all 0.3s ease-in-out 0s;
+  transition: all 0.3s ease-in-out 0s; }
+
+.zen-fade {
   opacity: 0.1; }
   .zen-fade:hover {
     opacity: 0.6; }
@@ -1811,3 +1813,7 @@ p {
 
 .article-ref a {
   position: relative; }
+
+.hoverblack:hover {
+  opacity: 1;
+  color: black; }
