@@ -1693,13 +1693,11 @@ body.fade-out {
 a {
   color: rgba(0, 0, 0, 0.7);
   outline: none;
-  text-decoration: none; }
+  text-decoration: none;
+  position: relative; }
 
 article {
   height: 75vh; }
-
-article a:hover {
-  color: rgba(0, 0, 0, 0.5); }
 
 article p {
   font-size: 24px;
@@ -1727,9 +1725,9 @@ article h1 {
   position: absolute;
   right: 0; }
 
-.underline {
+.underline, article a {
   border-bottom: 2px solid lightblue; }
-  .underline:before {
+  .underline:before, article a:before {
     content: "";
     position: absolute;
     width: 100%;
@@ -1741,7 +1739,7 @@ article h1 {
     transform: scaleX(0);
     -webkit-transition: all 0.4s ease-in-out 0s;
     transition: all 0.4s ease-in-out 0s; }
-  .underline:hover:before {
+  .underline:hover:before, article a:hover:before {
     background-color: orange;
     visibility: visible;
     -webkit-transform: scaleX(1);
