@@ -35,16 +35,11 @@ a {
   color: rgba(#000, 0.7);
   outline: none;
   text-decoration: none;
+  position: relative;
 }
 
 article {
   height: 75vh;
-}
-
-article a {
-  &:hover {
-    color: rgba(#000, 0.5);
-  }
 }
 
 article p {
@@ -79,8 +74,9 @@ article h1 {
   right: 0;
 }
 
-.underline {
+.underline, article a {
   border-bottom: 2px solid lightblue;
+
   &:before {
     content: "";
     position: absolute;
