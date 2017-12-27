@@ -118,9 +118,11 @@ p {
   font-size: 18px;
 }
 
-.zen-fade {
+.fade {
   transition: all 0.3s ease-in-out 0s;
+}
 
+.zen-fade {
   opacity: 0.1;
 
   &:hover {
@@ -184,4 +186,9 @@ p {
 
 .article-ref a {
   position: relative;
+}
+
+.hoverblack:hover {
+  opacity: 1;
+  color: black;
 }

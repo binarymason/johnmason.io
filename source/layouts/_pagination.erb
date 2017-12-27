@@ -1,6 +1,6 @@
 <div class="pagination uppercase zen-fade">
   <% if article.article_next %>
-    <a href=<%= article.article_next.url%> class="next">
+    <a href=<%= article.article_next.url%> class="fade hoverblack next">
       <i class="fa fa-arrow-left" aria-hidden="true"></i>
       <%= article.article_next.title %>
     </a>
@@ -8,7 +8,7 @@
 
 
   <% if article.article_previous %>
-    <a href=<%= article.article_previous.url%> class="prev">
+    <a href=<%= article.article_previous.url%> class="fade hoverblack prev">
       <%= article.article_previous.title %>
       <i class="fa fa-arrow-right" aria-hidden="true"></i>
     </a>
