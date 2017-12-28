@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>John Mason</title>
-  <id>https://johnmason.io/posts</id>
-  <link href="https://johnmason.io/posts"/>
+  <id>https://johnmason.io/blog</id>
+  <link href="https://johnmason.io/blog"/>
   <link href="https://johnmason.io/feed.xml" rel="self"/>
   <updated>2017-12-28T07:48:00-05:00</updated>
   <author>
@@ -10,8 +10,8 @@
   </author>
   <entry>
     <title>Progress Formula</title>
-    <link rel="alternate" href="https://johnmason.io/posts/2017/12/progress-formula/"/>
-    <id>https://johnmason.io/posts/2017/12/progress-formula/</id>
+    <link rel="alternate" href="https://johnmason.io/blog/2017-12-progress-formula/"/>
+    <id>https://johnmason.io/blog/2017-12-progress-formula/</id>
     <published>2017-12-28T07:48:00-05:00</published>
     <updated>2017-12-28T08:38:44-05:00</updated>
     <author>
@@ -27,8 +27,8 @@
   </entry>
   <entry>
     <title>Define Happiness</title>
-    <link rel="alternate" href="https://johnmason.io/posts/2017/12/define-happiness/"/>
-    <id>https://johnmason.io/posts/2017/12/define-happiness/</id>
+    <link rel="alternate" href="https://johnmason.io/blog/2017-12-define-happiness/"/>
+    <id>https://johnmason.io/blog/2017-12-define-happiness/</id>
     <published>2017-12-27T06:44:00-05:00</published>
     <updated>2017-12-27T06:45:45-05:00</updated>
     <author>
@@ -42,8 +42,8 @@
   </entry>
   <entry>
     <title>The Rule of Five Sentences</title>
-    <link rel="alternate" href="https://johnmason.io/posts/2017/12/rule-of-five-sentences/"/>
-    <id>https://johnmason.io/posts/2017/12/rule-of-five-sentences/</id>
+    <link rel="alternate" href="https://johnmason.io/blog/2017-12-rule-of-five-sentences/"/>
+    <id>https://johnmason.io/blog/2017-12-rule-of-five-sentences/</id>
     <published>2017-12-26T07:18:00-05:00</published>
     <updated>2017-12-28T07:47:38-05:00</updated>
     <author>
