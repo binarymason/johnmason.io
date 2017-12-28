@@ -150,11 +150,16 @@ article {
 }
 
 .header-container {
+  z-index: 9;
   text-align: left;
   font-size: 14px;
   text-transform: uppercase;
   margin: 20px 20px 0 20px;
   width: 100%;
+
+  & a {
+    font-weight: bold;
+  }
 }
 
 .nav {
@@ -201,3 +206,33 @@ article {
   opacity: 1;
   color: black;
 }
+
+.frontpage {
+  position: fixed;
+  top: -50%;
+  left: -50%;
+  width: 200%;
+  height: 200%;
+}
+
+.frontpage img {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  margin: auto;
+  min-width: 50%;
+  min-height: 50%;
+  width: 50%;
+  height: auto;
+  object-fit: cover;
+}
+
+@media screen and (max-width: 1024px){
+  .frontpage img {
+    bottom: -100px;
+    left: 0;
+  }
+}
+

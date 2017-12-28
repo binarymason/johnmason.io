@@ -13,7 +13,7 @@ activate :livereload
 activate :blog do |blog|
   blog.layout    = 'post'
   blog.paginate  = true
-  blog.permalink = ':year/:month/:title'
+  blog.permalink = ':year-:month-:title'
   blog.prefix    = 'blog'
   blog.per_page  = 1
 end

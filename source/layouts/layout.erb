@@ -11,6 +11,13 @@
     <%= javascript_include_tag "site" %>
   </head>
   <body>
+    <script>
+if (window.location.pathname.split('/').length - 1 === 1) {
+  document.body.className += ' fade-out';
+
+  window.onload = () => { document.body.classList.remove('fade-out'); }
+}
+    </script>
     <%= partial 'layouts/header' %>
 
     <div class="container">
