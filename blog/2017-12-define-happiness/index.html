@@ -11,6 +11,13 @@
     <script src="/javascripts/site.js"></script>
   </head>
   <body>
+    <script>
+if (window.location.pathname.split('/').length - 1 === 1) {
+  document.body.className += ' fade-out';
+
+  window.onload = () => { document.body.classList.remove('fade-out'); }
+}
+    </script>
     <div class="header-container ultralight fade zen-fade">
   <a href="/" id="homelink" class="fade hoverblack">
     <span class="name">JM</span>
@@ -27,6 +34,7 @@
       <i class="fa fa-rss" aria-hidden="true"></i>
     </a>
 </div>
+
 
     <div class="container">
         <article>
