@@ -209,10 +209,12 @@ article {
 
 .frontpage {
   position: fixed;
+  z-index: 5;
   top: -50%;
   left: -50%;
   width: 200%;
   height: 200%;
+  font-family: 'EB Garamond', serif;
 }
 
 .frontpage img {
@@ -229,10 +231,28 @@ article {
   object-fit: cover;
 }
 
-@media screen and (max-width: 1024px){
-  .frontpage img {
-    bottom: -100px;
-    left: 0;
+.page-intro {
+  position: absolute;
+  z-index: 9;
+}
+
+// phone
+@media only screen
+and (min-device-width : 320px)
+and (max-device-width : 667px) {
+  .page-intro {
+    font-size: 1em;
+    line-height: 1px;
+    margin-top: 12px;
   }
 }
 
+// tablet portrait
+@media only screen
+and (min-device-width : 768px)
+and (max-device-width : 1024px) {
+  .page-intro {
+    margin: 1.5em;
+    font-size: 1.5em;
+  }
+}
