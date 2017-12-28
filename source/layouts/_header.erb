@@ -1,10 +1,21 @@
-<div class="header-container fade zen-fade">
+<div class="header-container light fade zen-fade">
   <a href="/" id="homelink" class="fade hoverblack">
-    <span class="name">J</span>
-    <span class="name">M</span>
+    <span class="name">JM</span>
   </a>
 
-  <a href="/feed.xml" target="_blank" class="fade rss-link hoverblack">
-    <i class="fa fa-rss" aria-hidden="true"></i>
-  </a>
+  <% unless root_path?(current_page) %>
+
+    |
+    <% path = breadcrumb_path(current_page) %>
+    <a href=<%= "/#{path}"%> class="fade hoverblack">
+      <%= path %>
+    </a>
+  <% end %>
+
+
+  <% if on_blog?(current_page) %>
+    <a href="/feed.xml" target="_blank" class="fade zen-fade rss-link hoverblack">
+      <i class="fa fa-rss" aria-hidden="true"></i>
+    </a>
+  <% end %>
 </div>

@@ -14,14 +14,14 @@ activate :blog do |blog|
   blog.layout    = 'post'
   blog.paginate  = true
   blog.permalink = ':year/:month/:title'
-  blog.prefix    = 'posts'
+  blog.prefix    = 'blog'
   blog.per_page  = 1
 end
 
 # Layouts
 # https://middlemanapp.com/basics/layouts/
 
-page "/feed.xml", :layout => false
+page "/feed.xml", layout: false
 
 # Per-page layout changes
 page '/*.xml', layout: false
@@ -59,9 +59,22 @@ activate :directory_indexes
 # Build-specific configuration
 # https://middlemanapp.com/advanced/configuration/#environment-specific-settings
 
-# configure :build do
-#   activate :minify_css
-#   activate :minify_javascript
-# end
+configure :build do
+  activate :minify_css
+  activate :minify_javascript
+end
 #
 
+helpers do
+  def root_path?(current_page)
+    current_page.url == '/'
+  end
+
+  def on_blog?(current_page)
+    breadcrumb_path(current_page) == 'blog'
+  end
+
+  def breadcrumb_path(current_page)
+    current_page.url.split('/')[1]
+  end
+end

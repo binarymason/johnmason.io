@@ -118,19 +118,26 @@ article {
   display: inline;
   font-weight: bold;
   font-size: 18px;
+  letter-spacing: 2.5px;
 }
 
 .fade {
   transition: all 0.3s ease-in-out 0s;
 }
 
+.ultralight {
+  opacity: 0.1
+}
+
+.light {
+  opacity: 0.3;
+}
+
 .zen-fade {
-  opacity: 0.1;
 
   &:hover {
     opacity: 0.6;
   }
-
 
   & a {
     text-decoration: none;
