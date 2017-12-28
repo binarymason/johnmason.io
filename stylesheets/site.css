@@ -1697,16 +1697,18 @@ a {
   position: relative; }
 
 article {
-  height: 75vh; }
+  height: 100%; }
 
 article p {
   font-size: 24px;
-  text-align: justify; }
+  text-align: justify;
+  margin: 8px 0 0 0; }
 
 article h1 {
   font-size: 56px;
   text-align: center;
-  margin-bottom: 24px; }
+  margin-bottom: 24px;
+  margin-top: 8px; }
 
 .article-title-divider {
   background-color: orange;
@@ -1749,7 +1751,10 @@ a, p {
   line-height: 1.6em; }
 
 p {
-  padding: 8px 0px; }
+  padding: 8px 0px 0px 0px; }
+
+article {
+  margin-bottom: 24px; }
 
 .name {
   display: inline;
@@ -1775,7 +1780,7 @@ p {
   text-align: left;
   font-size: 14px;
   text-transform: uppercase;
-  margin: 20px;
+  margin: 20px 20px 0 20px;
   width: 100%; }
 
 .nav {

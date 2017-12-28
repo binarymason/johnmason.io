@@ -4,10 +4,27 @@
   <id>https://johnmason.io/posts</id>
   <link href="https://johnmason.io/posts"/>
   <link href="https://johnmason.io/feed.xml" rel="self"/>
-  <updated>2017-12-27T06:44:00-05:00</updated>
+  <updated>2017-12-28T07:48:00-05:00</updated>
   <author>
     <name>John Mason</name>
   </author>
+  <entry>
+    <title>Progress Formula</title>
+    <link rel="alternate" href="https://johnmason.io/posts/2017/12/progress-formula/"/>
+    <id>https://johnmason.io/posts/2017/12/progress-formula/</id>
+    <published>2017-12-28T07:48:00-05:00</published>
+    <updated>2017-12-28T08:38:44-05:00</updated>
+    <author>
+      <name>John Mason</name>
+    </author>
+    <content type="html">&lt;p&gt;Humans make progress by defining a problem and solving it by combining two things: &lt;strong&gt;knowledge&lt;/strong&gt; and &lt;strong&gt;action&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;Every obstacle towards progress is simply one more problem to solve.&lt;/p&gt;
+
+&lt;p&gt;We put a man on the moon because we discovered solutions to a plethora of problems and made the necessary actions to solve them.&lt;/p&gt;
+
+</content>
+  </entry>
   <entry>
     <title>Define Happiness</title>
     <link rel="alternate" href="https://johnmason.io/posts/2017/12/define-happiness/"/>
@@ -28,7 +45,7 @@
     <link rel="alternate" href="https://johnmason.io/posts/2017/12/rule-of-five-sentences/"/>
     <id>https://johnmason.io/posts/2017/12/rule-of-five-sentences/</id>
     <published>2017-12-26T07:18:00-05:00</published>
-    <updated>2017-12-26T11:45:23-05:00</updated>
+    <updated>2017-12-28T07:47:38-05:00</updated>
     <author>
       <name>John Mason</name>
     </author>
