@@ -4,10 +4,27 @@
   <id>https://johnmason.io/blog</id>
   <link href="https://johnmason.io/blog"/>
   <link href="https://johnmason.io/feed.xml" rel="self"/>
-  <updated>2017-12-29T07:03:00-05:00</updated>
+  <updated>2017-12-30T09:27:00-05:00</updated>
   <author>
     <name>John Mason</name>
   </author>
+  <entry>
+    <title>Practice Makes Perfect</title>
+    <link rel="alternate" href="https://johnmason.io/blog/2017-12-practice-makes-perfect/"/>
+    <id>https://johnmason.io/blog/2017-12-practice-makes-perfect/</id>
+    <published>2017-12-30T09:27:00-05:00</published>
+    <updated>2017-12-30T09:41:57-05:00</updated>
+    <author>
+      <name>John Mason</name>
+    </author>
+    <content type="html">&lt;p&gt;Step by step directions on how to get &lt;em&gt;really&lt;/em&gt; good at something is still a mystery to us.&lt;/p&gt;
+
+&lt;p&gt;Giving robots specific instructions on how to walk only results in disjointed movements.&lt;/p&gt;
+
+&lt;p&gt;The way to get good is by practicing and learning from failure. Something magical happens after learning from failure thousands of times.  Think of whatever you want to get &lt;em&gt;really&lt;/em&gt; good at and put in the hours of practice.&lt;/p&gt;
+
+</content>
+  </entry>
   <entry>
     <title>Fear of the Deep End</title>
     <link rel="alternate" href="https://johnmason.io/blog/2017-12-fear-of-the-deep-end/"/>
