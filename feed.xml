@@ -4,10 +4,26 @@
   <id>https://johnmason.io/blog</id>
   <link href="https://johnmason.io/blog"/>
   <link href="https://johnmason.io/feed.xml" rel="self"/>
-  <updated>2017-12-30T09:27:00-05:00</updated>
+  <updated>2017-12-31T08:07:00-05:00</updated>
   <author>
     <name>John Mason</name>
   </author>
+  <entry>
+    <title>Hell Yeah or No</title>
+    <link rel="alternate" href="https://johnmason.io/blog/2017-12-hell-yeah-or-no/"/>
+    <id>https://johnmason.io/blog/2017-12-hell-yeah-or-no/</id>
+    <published>2017-12-31T08:07:00-05:00</published>
+    <updated>2017-12-31T08:31:53-05:00</updated>
+    <author>
+      <name>John Mason</name>
+    </author>
+    <content type="html">&lt;p&gt;Derek Sivers recommends in this &lt;a href="https://youtu.be/1ehWlVeMrqw"&gt;1 minute youtube video&lt;/a&gt; to do things that are &lt;em&gt;Hell Yeah&lt;/em&gt; and say no to everything else.&lt;/p&gt;
+
+&lt;p&gt;John Paul DeJoria, multi billionaire and co-founder of Paul Mitchell hair products, recommends to "Pay attention to the vital few and ignore the trivial many".&lt;/p&gt;
+
+&lt;p&gt;Warren Buffett advises, "The difference between successful people and really successful people is that really successful people say no to almost everything."&lt;/p&gt;
+</content>
+  </entry>
   <entry>
     <title>Practice Makes Perfect</title>
     <link rel="alternate" href="https://johnmason.io/blog/2017-12-practice-makes-perfect/"/>
