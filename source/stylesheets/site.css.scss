@@ -192,10 +192,14 @@ article {
 }
 
 .article-date {
-  display: block;
-  text-transform: uppercase;
+  display: inline-block;
+  float: right;
   opacity: .5;
   font-size: 75%;
+}
+
+.article-month {
+  text-align: center;
 }
 
 .article-ref a {

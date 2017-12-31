@@ -1,11 +1,14 @@
-<ul>
-  <% blog.articles.group_by {|a| a.date.year }.each do |year, articles| %>
-    <h3 class="article-year"><%= year %></h3>
-    <% articles.each do |article| %>
-      <li class="article-ref">
-        <span class="article-date"><%= article.date.strftime '%B %d' %></span>
-        <a href="<%= article.url %>" class="underline"><%= article.title %></a>
-      </li>
-    <% end %>
+<% blog.articles.group_by {|a| a.date.year }.each do |year, listing| %>
+  <h3 class="article-year"><%= year %></h3>
+  <% listing.group_by {|a| a.date.strftime '%B' }.each do |month, articles| %>
+    <ul>
+      <h5 class="article-month"><%= month %></h5>
+      <% articles.each do |article| %>
+        <li class="article-ref">
+          <span class="article-date"><%= article.date.strftime(article.date.day.ordinalize) %></span>
+          <a href="<%= article.url %>" class="underline"><%= article.title %></a>
+        </li>
+      <% end %>
+    </ul>
   <% end %>
-</ul>
+<% end %>

@@ -1,5 +1,6 @@
 source 'https://rubygems.org'
 
+gem 'activesupport'
 gem 'builder', '~> 2.0'
 gem 'font-awesome-middleman'
 gem 'middleman', '~> 4.2'
