@@ -67,6 +67,6 @@ end
 
 helpers do
   def nav_link(path)
-    current_page.url.delete('/') == path.delete('/') ? 'active' : ''
+    'active' if current_page.url == path || current_page.url.split('/')[1] == path.delete('/')
   end
 end
