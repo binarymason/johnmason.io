@@ -66,15 +66,7 @@ end
 #
 
 helpers do
-  def root_path?(current_page)
-    current_page.url == '/'
-  end
-
-  def on_blog?(current_page)
-    breadcrumb_path(current_page) == 'blog'
-  end
-
-  def breadcrumb_path(current_page)
-    current_page.url.split('/')[1]
+  def nav_link(path)
+    current_page.url.delete('/') == path.delete('/') ? 'active' : ''
   end
 end

@@ -189,15 +189,21 @@ article {
   text-transform: uppercase;
   margin: 20px 20px 0 20px;
   width: 100%;
+  letter-spacing: 0.1em;
 
   & a {
     font-weight: bold;
+    color: rgba(#000, 0.5);
   }
 }
 
 .rss-link {
   float: right;
   font-size: 18px;
+}
+
+.active {
+  color: rgba(#000, 0.8) !important;
 }
 
 .container {
