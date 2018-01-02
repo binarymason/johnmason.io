@@ -4,10 +4,27 @@
   <id>https://johnmason.io/blog</id>
   <link href="https://johnmason.io/blog"/>
   <link href="https://johnmason.io/feed.xml" rel="self"/>
-  <updated>2018-01-01T13:52:00-05:00</updated>
+  <updated>2018-01-02T07:04:00-05:00</updated>
   <author>
     <name>John Mason</name>
   </author>
+  <entry>
+    <title>W.I.N.</title>
+    <link rel="alternate" href="https://johnmason.io/blog/2018/01/win/"/>
+    <id>https://johnmason.io/blog/2018/01/win/</id>
+    <published>2018-01-02T07:04:00-05:00</published>
+    <updated>2018-01-02T07:19:34-05:00</updated>
+    <author>
+      <name>John Mason</name>
+    </author>
+    <content type="html">&lt;p&gt;In his book, &lt;em&gt;Winning Every Day&lt;/em&gt;, Notre Dame football coach explains how he taught his players to ask themselves the question: "What's important now?" (hence the acryonym).&lt;/p&gt;
+
+&lt;p&gt;If his players are focused on what's important &lt;em&gt;right now&lt;/em&gt; then they are "winning". Conversely, losing was defined as literally &lt;em&gt;losing focus&lt;/em&gt; on what's important.&lt;/p&gt;
+
+&lt;p&gt;What's important now?&lt;/p&gt;
+
+</content>
+  </entry>
   <entry>
     <title>Dark Productivity</title>
     <link rel="alternate" href="https://johnmason.io/blog/2018/01/dark-productivity/"/>
@@ -89,21 +106,6 @@
 &lt;p&gt;Every obstacle towards progress is simply one more problem to solve.&lt;/p&gt;
 
 &lt;p&gt;We put a man on the moon because we discovered solutions to a plethora of problems and made the necessary actions to solve them.&lt;/p&gt;
-
-</content>
-  </entry>
-  <entry>
-    <title>Define Happiness</title>
-    <link rel="alternate" href="https://johnmason.io/blog/2017/12/define-happiness/"/>
-    <id>https://johnmason.io/blog/2017/12/define-happiness/</id>
-    <published>2017-12-27T06:44:00-05:00</published>
-    <updated>2017-12-27T06:45:45-05:00</updated>
-    <author>
-      <name>John Mason</name>
-    </author>
-    <content type="html">&lt;p&gt;Don't guess what makes you happy. Resist the urge to work, work, work and think &lt;em&gt;you'll be happy when&lt;/em&gt; you're done.&lt;/p&gt;
-
-&lt;p&gt;What's your definition of happiness? Mine is gratitude.  The more I am grateful, the more I find myself being happy.&lt;/p&gt;
 
 </content>
   </entry>
