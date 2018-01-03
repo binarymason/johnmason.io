@@ -1,13 +1,28 @@
 <div class="frontpage">
   <%= image_tag 'coffee.jpg' %>
 
-</div>
+  <h1>Dear Reader,</h1>
 
-<div class="page-intro">
-  <h1>Hi there,</h1>
-  <p>I'm <a href="https://github.com/binarymason" class="underline">John</a>.</p>
-  <p>Nice to meet you!</p>
-  <p>I mostly write articles <a href="/blog" class="underline">here</a>.</p>
-  <p>I'm really into improving stuff.</p>
-  <p>Let's get <a href="mailto:john@johnmason.io" class="underline">coffee?</a></p>
+  <div class="page-intro">
+    <p class="a">Thank you for visiting my website!</p>
+    <p class="a">Hope you enjoy reading my <a class="underline" href="/blog">blog</a></p>
+    <p class="a">Let's grab coffee soon.</p>
+    <p class="q">Who is this?</p>
+    <p class="q">Do I know you?</p>
+    <p class="a">Oh right.</p>
+    <p class="a">Maybe we haven't met yet</p>
+    <p class="a">I'm <a class="underline" href="https://github.com/binarymason" target="_blank">John</a></p>
+    <p class="q">Ok, it's really weird that <br>we're talking like this.</p>
+    <p class="a">Yeh, I know</p>
+    <p class="a">I thought this was a clever idea<br> so you can find out more about <br>me, but now it's just awkward.</p>
+    <p class="a">Was hoping this could be kinda like a FAQ</p>
+    <p class="q">You're strange</p>
+    <p class="a">¯\_(ツ)_/¯</p>
+  </div>
+
+  <div class="sms-wrapper">
+    <textarea name="text" value="" class="sms-message" wrap="soft"i placeholder="Message"/></textarea>
+
+    <button class="sms-submit" onclick="mailsms()">Send</button>
+  </div>
 </div>
