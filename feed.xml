@@ -4,10 +4,25 @@
   <id>https://johnmason.io/blog</id>
   <link href="https://johnmason.io/blog"/>
   <link href="https://johnmason.io/feed.xml" rel="self"/>
-  <updated>2018-01-02T07:04:00-05:00</updated>
+  <updated>2018-01-03T19:30:00-05:00</updated>
   <author>
     <name>John Mason</name>
   </author>
+  <entry>
+    <title>Don't Buy Books</title>
+    <link rel="alternate" href="https://johnmason.io/blog/2018/01/dont-buy-books/"/>
+    <id>https://johnmason.io/blog/2018/01/dont-buy-books/</id>
+    <published>2018-01-03T19:30:00-05:00</published>
+    <updated>2018-01-03T19:38:54-05:00</updated>
+    <author>
+      <name>John Mason</name>
+    </author>
+    <content type="html">&lt;p&gt;When you buy books, you're invested in them and have a tendency to want to read every word.&lt;/p&gt;
+
+&lt;p&gt;Treat books like encyclopedias. Go to the library and get half a dozen &lt;em&gt;for free&lt;/em&gt; and extract knowledge.  If you're not getting anything out of one, put it down and pick up the next.&lt;/p&gt;
+
+</content>
+  </entry>
   <entry>
     <title>W.I.N.</title>
     <link rel="alternate" href="https://johnmason.io/blog/2018/01/win/"/>
@@ -89,23 +104,6 @@
 &lt;p&gt;Grappling with the shortcomings of your abilities against the demands of what society wants and figuring out how to meet that demand can be daunting.&lt;/p&gt;
 
 &lt;p&gt;It's much easier to keep ourselves busy in the safety of the shallows.&lt;/p&gt;
-
-</content>
-  </entry>
-  <entry>
-    <title>Progress Formula</title>
-    <link rel="alternate" href="https://johnmason.io/blog/2017/12/progress-formula/"/>
-    <id>https://johnmason.io/blog/2017/12/progress-formula/</id>
-    <published>2017-12-28T07:48:00-05:00</published>
-    <updated>2017-12-28T08:38:44-05:00</updated>
-    <author>
-      <name>John Mason</name>
-    </author>
-    <content type="html">&lt;p&gt;Humans make progress by defining a problem and solving it by combining two things: &lt;strong&gt;knowledge&lt;/strong&gt; and &lt;strong&gt;action&lt;/strong&gt;.&lt;/p&gt;
-
-&lt;p&gt;Every obstacle towards progress is simply one more problem to solve.&lt;/p&gt;
-
-&lt;p&gt;We put a man on the moon because we discovered solutions to a plethora of problems and made the necessary actions to solve them.&lt;/p&gt;
 
 </content>
   </entry>
