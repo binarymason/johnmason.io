@@ -4,16 +4,31 @@
   <id>https://johnmason.io/blog</id>
   <link href="https://johnmason.io/blog"/>
   <link href="https://johnmason.io/feed.xml" rel="self"/>
-  <updated>2018-01-03T19:30:00-05:00</updated>
+  <updated>2018-01-04T07:15:00-05:00</updated>
   <author>
     <name>John Mason</name>
   </author>
+  <entry>
+    <title>Old Career Advice</title>
+    <link rel="alternate" href="https://johnmason.io/blog/2018/01/old-career-advice/"/>
+    <id>https://johnmason.io/blog/2018/01/old-career-advice/</id>
+    <published>2018-01-04T07:15:00-05:00</published>
+    <updated>2018-01-04T07:17:29-05:00</updated>
+    <author>
+      <name>John Mason</name>
+    </author>
+    <content type="html">&lt;p&gt;Aristotle allegedly made this quote:&lt;/p&gt;
+
+&lt;p&gt;"Where your talents and the needs of the world cross, there lies your vocation."&lt;/p&gt;
+
+</content>
+  </entry>
   <entry>
     <title>Don't Buy Books</title>
     <link rel="alternate" href="https://johnmason.io/blog/2018/01/dont-buy-books/"/>
     <id>https://johnmason.io/blog/2018/01/dont-buy-books/</id>
     <published>2018-01-03T19:30:00-05:00</published>
-    <updated>2018-01-03T19:38:54-05:00</updated>
+    <updated>2018-01-04T07:21:55-05:00</updated>
     <author>
       <name>John Mason</name>
     </author>
@@ -87,23 +102,6 @@
 &lt;p&gt;Giving robots specific instructions on how to walk only results in disjointed movements.&lt;/p&gt;
 
 &lt;p&gt;The way to get good is by practicing and learning from failure. Something magical happens after learning from failure thousands of times.  Think of whatever you want to get &lt;em&gt;really&lt;/em&gt; good at and put in the hours of practice.&lt;/p&gt;
-
-</content>
-  </entry>
-  <entry>
-    <title>Fear of the Deep End</title>
-    <link rel="alternate" href="https://johnmason.io/blog/2017/12/fear-of-the-deep-end/"/>
-    <id>https://johnmason.io/blog/2017/12/fear-of-the-deep-end/</id>
-    <published>2017-12-29T07:03:00-05:00</published>
-    <updated>2017-12-29T07:39:40-05:00</updated>
-    <author>
-      <name>John Mason</name>
-    </author>
-    <content type="html">&lt;p&gt;Dedicating yourself towards being extremely good is scary.&lt;/p&gt;
-
-&lt;p&gt;Grappling with the shortcomings of your abilities against the demands of what society wants and figuring out how to meet that demand can be daunting.&lt;/p&gt;
-
-&lt;p&gt;It's much easier to keep ourselves busy in the safety of the shallows.&lt;/p&gt;
 
 </content>
   </entry>
