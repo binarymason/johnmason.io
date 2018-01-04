@@ -18,6 +18,8 @@ activate :blog do |blog|
   blog.per_page  = 1
 end
 
+Time.zone = "US/Eastern"
+
 # Layouts
 # https://middlemanapp.com/basics/layouts/
 

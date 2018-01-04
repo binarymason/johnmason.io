@@ -1,7 +1,7 @@
 ---
 
 title: Don't Buy Books
-date: 2018-01-04 00:30 UTC
+date: 2018-01-03 19:30 EST
 tags: reading
 
 ---
