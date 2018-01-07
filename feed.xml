@@ -4,10 +4,29 @@
   <id>https://johnmason.io/blog</id>
   <link href="https://johnmason.io/blog"/>
   <link href="https://johnmason.io/feed.xml" rel="self"/>
-  <updated>2018-01-06T06:36:00-05:00</updated>
+  <updated>2018-01-07T06:37:00-05:00</updated>
   <author>
     <name>John Mason</name>
   </author>
+  <entry>
+    <title>Negative Space</title>
+    <link rel="alternate" href="https://johnmason.io/blog/2018/01/negative-space/"/>
+    <id>https://johnmason.io/blog/2018/01/negative-space/</id>
+    <published>2018-01-07T06:37:00-05:00</published>
+    <updated>2018-01-07T07:09:05-05:00</updated>
+    <author>
+      <name>John Mason</name>
+    </author>
+    <content type="html">&lt;p&gt;Beauty often stems from awareness of negativity.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;What would music be without moments of silence?&lt;/li&gt;
+  &lt;li&gt;What would dancing be without moments of stillness?&lt;/li&gt;
+  &lt;li&gt;What would graphical art be without negative space?&lt;/li&gt;
+  &lt;li&gt;What would victory be without the possibility of defeat?&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+  </entry>
   <entry>
     <title>Have the Courage to be Imperfect</title>
     <link rel="alternate" href="https://johnmason.io/blog/2018/01/courage-to-be-imperfect/"/>
@@ -86,23 +105,6 @@
 &lt;p&gt;If his players are focused on what's important &lt;em&gt;right now&lt;/em&gt; then they are "winning". Conversely, losing was defined as literally &lt;em&gt;losing focus&lt;/em&gt; on what's important.&lt;/p&gt;
 
 &lt;p&gt;What's important now?&lt;/p&gt;
-
-</content>
-  </entry>
-  <entry>
-    <title>Dark Productivity</title>
-    <link rel="alternate" href="https://johnmason.io/blog/2018/01/dark-productivity/"/>
-    <id>https://johnmason.io/blog/2018/01/dark-productivity/</id>
-    <published>2018-01-01T13:52:00-05:00</published>
-    <updated>2018-01-04T08:58:29-05:00</updated>
-    <author>
-      <name>John Mason</name>
-    </author>
-    <content type="html">&lt;p&gt;Tim Urban gave a &lt;a href="https://www.ted.com/talks/tim_urban_inside_the_mind_of_a_master_procrastinator"&gt;TED talk&lt;/a&gt; where he jokingly suggests that we all have an instant gratification monkey in our minds.  This monkey likes to lead us to what Tim coined as the "dark playground" where we enjoy regrettable, cheap entertainments.&lt;/p&gt;
-
-&lt;p&gt;I think the instant gratification monkey knows we're onto its nefarious ways, so it has developed something new: &lt;strong&gt;dark productivity&lt;/strong&gt;.&lt;/p&gt;
-
-&lt;p&gt;This is the most insidious form of instant gratification.  You &lt;em&gt;think&lt;/em&gt; you're getting stuff done, but all you're really doing is shuffling cheap things around looking busy and avoiding what really matters.&lt;/p&gt;
 
 </content>
   </entry>
