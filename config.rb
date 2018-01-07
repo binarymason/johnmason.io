@@ -16,6 +16,8 @@ activate :blog do |blog|
   blog.permalink = ':year/:month/:title'
   blog.prefix    = 'blog'
   blog.per_page  = 1
+  blog.default_extension = ".md"
+  blog.new_article_template = File.expand_path('../source/template.yml', __FILE__)
 end
 
 Time.zone = "US/Eastern"
