@@ -4,10 +4,24 @@
   <id>https://johnmason.io/blog</id>
   <link href="https://johnmason.io/blog"/>
   <link href="https://johnmason.io/feed.xml" rel="self"/>
-  <updated>2018-01-07T06:37:00-05:00</updated>
+  <updated>2018-01-08T06:22:00-05:00</updated>
   <author>
     <name>John Mason</name>
   </author>
+  <entry>
+    <title>Experiment</title>
+    <link rel="alternate" href="https://johnmason.io/blog/2018/01/experiment/"/>
+    <id>https://johnmason.io/blog/2018/01/experiment/</id>
+    <published>2018-01-08T06:22:00-05:00</published>
+    <updated>2018-01-08T06:26:06-05:00</updated>
+    <author>
+      <name>John Mason</name>
+    </author>
+    <content type="html">&lt;p&gt;Inputs make outputs. Make experiments where you compare an outcome to the actions you made.&lt;/p&gt;
+
+&lt;p&gt;If you are happy with the outcome, keep doing what you're doing, otherwise start doing something else.&lt;/p&gt;
+</content>
+  </entry>
   <entry>
     <title>Negative Space</title>
     <link rel="alternate" href="https://johnmason.io/blog/2018/01/negative-space/"/>
@@ -88,23 +102,6 @@
     <content type="html">&lt;p&gt;When you buy books, you're invested in them and have a tendency to want to read every word.&lt;/p&gt;
 
 &lt;p&gt;Treat books like encyclopedias. Go to the library and get half a dozen &lt;em&gt;for free&lt;/em&gt; and extract knowledge.  If you're not getting anything out of one, put it down and pick up the next.&lt;/p&gt;
-
-</content>
-  </entry>
-  <entry>
-    <title>W.I.N.</title>
-    <link rel="alternate" href="https://johnmason.io/blog/2018/01/win/"/>
-    <id>https://johnmason.io/blog/2018/01/win/</id>
-    <published>2018-01-02T07:04:00-05:00</published>
-    <updated>2018-01-04T08:58:29-05:00</updated>
-    <author>
-      <name>John Mason</name>
-    </author>
-    <content type="html">&lt;p&gt;In his book, &lt;em&gt;Winning Every Day&lt;/em&gt;, Notre Dame football coach explains how he taught his players to ask themselves the question: "What's important now?" (hence the acryonym).&lt;/p&gt;
-
-&lt;p&gt;If his players are focused on what's important &lt;em&gt;right now&lt;/em&gt; then they are "winning". Conversely, losing was defined as literally &lt;em&gt;losing focus&lt;/em&gt; on what's important.&lt;/p&gt;
-
-&lt;p&gt;What's important now?&lt;/p&gt;
 
 </content>
   </entry>
