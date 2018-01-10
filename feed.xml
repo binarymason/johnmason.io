@@ -4,10 +4,26 @@
   <id>https://johnmason.io/blog</id>
   <link href="https://johnmason.io/blog"/>
   <link href="https://johnmason.io/feed.xml" rel="self"/>
-  <updated>2018-01-09T20:03:00-05:00</updated>
+  <updated>2018-01-10T06:16:00-05:00</updated>
   <author>
     <name>John Mason</name>
   </author>
+  <entry>
+    <title>Heartfulness</title>
+    <link rel="alternate" href="https://johnmason.io/blog/2018/01/heartfulness/"/>
+    <id>https://johnmason.io/blog/2018/01/heartfulness/</id>
+    <published>2018-01-10T06:16:00-05:00</published>
+    <updated>2018-01-10T06:27:47-05:00</updated>
+    <author>
+      <name>John Mason</name>
+    </author>
+    <content type="html">&lt;p&gt;In Chinese, the word for mind is the same word for heart.  So, "mindfulness" in Chinese could either mean "having the mind in the present" or it could mean "having the heart in the present".&lt;/p&gt;
+
+&lt;p&gt;Ironically, mindfulness involves less thinking and more being.&lt;/p&gt;
+
+&lt;p&gt;Therefore, I think "heartfulness" is the word we're looking for when we describe being fully present in the moment.&lt;/p&gt;
+</content>
+  </entry>
   <entry>
     <title>Do To Become Better</title>
     <link rel="alternate" href="https://johnmason.io/blog/2018/01/do-to-become-better/"/>
@@ -91,21 +107,6 @@ Painters get better by painting more.&lt;/p&gt;
 &lt;p&gt;Things get hard when we experience more complex events where we struggle to provide a meaningful explanation.&lt;/p&gt;
 
 &lt;p&gt;It is a struggle because the meaning that we define dictates our plan to respond. Going against the plan makes us feel terrible until we create new meaning that we are willing to act upon.&lt;/p&gt;
-
-</content>
-  </entry>
-  <entry>
-    <title>Old Career Advice</title>
-    <link rel="alternate" href="https://johnmason.io/blog/2018/01/old-career-advice/"/>
-    <id>https://johnmason.io/blog/2018/01/old-career-advice/</id>
-    <published>2018-01-04T07:15:00-05:00</published>
-    <updated>2018-01-04T09:27:52-05:00</updated>
-    <author>
-      <name>John Mason</name>
-    </author>
-    <content type="html">&lt;p&gt;Aristotle allegedly made this quote:&lt;/p&gt;
-
-&lt;p&gt;"Where your talents and the needs of the world cross, there lies your vocation."&lt;/p&gt;
 
 </content>
   </entry>
