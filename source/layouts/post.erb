@@ -1,0 +1,10 @@
+<% wrap_layout :layout do %>
+  <article>
+    <h1><%= current_page.data.title %></a></h1>
+    <div class="article-title-divider"></div>
+    <%= yield %>
+  </article>
+
+
+  <%= partial 'layouts/pagination', locals: { article: current_article } %>
+<% end %>

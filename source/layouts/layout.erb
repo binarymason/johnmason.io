@@ -1,0 +1,27 @@
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
+    <meta name="viewport"
+          content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <!-- Use the title from a page's frontmatter if it has one -->
+    <title><%= current_page.data.title || "John Mason" %></title>
+    <%= stylesheet_link_tag "site" %>
+    <%= javascript_include_tag "site" %>
+  </head>
+  <body>
+    <script>
+if (window.location.pathname.split('/').length - 1 === 1) {
+  document.body.className += ' fade-out';
+
+  window.onload = () => { document.body.classList.remove('fade-out'); }
+}
+    </script>
+    <%= partial 'layouts/header' %>
+
+    <div class="container">
+      <%= yield %>
+    </div>
+  </body>
+</html>
