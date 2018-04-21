@@ -58,6 +58,9 @@ page '/*.txt', layout: false
 
 set :fonts_dir,  "fonts"
 
+redirect "stichfix.html", to: "stitchfix.html"
+
+
 activate :directory_indexes
 
 # Build-specific configuration
