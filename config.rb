@@ -60,6 +60,7 @@ set :fonts_dir,  "fonts"
 
 redirect "stichfix.html", to: "stitchfix.html"
 
+redirect "availability.html", to: "https://availability.johnmason.io"
 
 activate :directory_indexes
 
