@@ -153,7 +153,7 @@ a, p {
   text-align: left;
   right: 0;
   left: 0;
-  z-index: 9;
+  z-index: 9999;
   font-size: 14px;
   text-transform: uppercase;
   padding: 20px 10px 10px 10px;
@@ -288,7 +288,7 @@ li {
 .frontpage {
   width: 90%;
   max-width: 520px;
-  margin: 10vh auto;
+  margin: 0 auto;
 }
 
 .frontpage h1 {
@@ -299,10 +299,19 @@ li {
   letter-spacing: 0.025em;
 }
 
-.frontpage img {
+img.coffeecup {
   position: absolute;
   right: 0;
   top: 65vh;
+  width: 200px;
+  height: auto;
+}
+
+
+.frontpage img.pencil {
+  position: absolute;
+  left: 2vw;
+  bottom: 5vh;
   width: 200px;
   height: auto;
 }
@@ -340,8 +349,22 @@ li {
      height: 100%;
 }
 
+iframe#meet {
+  position: fixed;
+  top: 0px;
+  left: 0px;
+  bottom: 0px;
+  width: 100%;
+  height: 100%;
+  border: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  z-index: 500;
+}
+
 // phone
-@media only screen and (max-device-width : 667px) {
+@media only screen and (max-device-width : 700px) {
   .page-intro {
     text-align: left;
   }
@@ -381,7 +404,12 @@ li {
   .embed-container {
     margin-top: 25%;
     margin-bottom: 30px;
-}
+  }
+
+  .header-container {
+    padding-left: 0;
+    padding-right: 0;
+  }
 }
 
 // tablet portrait
@@ -392,5 +420,4 @@ and (max-device-width : 1024px) {
     margin: 1.5em;
     font-size: 1.5em;
   }
-
 }
