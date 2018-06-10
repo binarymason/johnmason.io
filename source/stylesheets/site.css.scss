@@ -148,12 +148,10 @@ a, p {
   text-transform: uppercase;
 }
 
-.header-container {
-  position: fixed;
+#header-container {
   text-align: left;
   right: 0;
   left: 0;
-  z-index: 9999;
   font-size: 14px;
   text-transform: uppercase;
   padding: 20px 10px 10px 10px;
@@ -175,6 +173,12 @@ a, p {
 .nav {
   margin-left: 10px;
   display: inline-block;
+}
+
+.navlink, .rss-link {
+  display: inline-block;
+  z-index: 501;
+  position: relative;
 }
 
 .active {
@@ -360,7 +364,7 @@ iframe#meet {
   margin: 0;
   padding: 0;
   overflow: hidden;
-  z-index: 500;
+  z-index: 9;
 }
 
 // phone
@@ -381,7 +385,7 @@ iframe#meet {
     display: none;
   }
 
-  .header-container {
+  #header-container {
     background-color: $background-color;
     box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);
   }
@@ -406,10 +410,16 @@ iframe#meet {
     margin-bottom: 30px;
   }
 
-  .header-container {
+  #header-container {
     padding-left: 0;
     padding-right: 0;
   }
+
+
+  .navlink, .rss-link {
+    z-index: 8;
+  }
+
 }
 
 // tablet portrait
