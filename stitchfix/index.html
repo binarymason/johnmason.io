@@ -60,7 +60,7 @@ var w = window,
     p = document.location.pathname;
 
 // don't show header-container only on /meet page and on iframe's mobile view
-if (p === '/meet' && x < 600) {
+if ((p === '/meet' || p === '/meet/') && x < 600) {
   document.getElementById('header-container').style.display = 'none'
 }
     </script>
