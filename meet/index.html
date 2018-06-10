@@ -18,13 +18,13 @@ if (window.location.pathname.split('/').length - 1 === 1) {
   window.onload = () => { document.body.classList.remove('fade-out'); }
 }
     </script>
-    <div class="header-container">
+    <div id="header-container">
   <div class="nav fancyline">
-    <a href="/" id="homelink" class="fade hoverblack">
+    <a href="/" id="homelink" class="fade hoverblack navlink">
       <div class="name inactive">JM</div>
     </a>
     <span> | </span>
-    <a href="/blog" id="bloglink" class="fade hoverblack">
+    <a href="/blog" id="bloglink" class="fade hoverblack navlink">
       <div class="inactive">Blog</div>
     </a>
   </div>
@@ -37,14 +37,26 @@ if (window.location.pathname.split('/').length - 1 === 1) {
 
 
     <div class="container">
-      <div>
-  <img src="/images/coffee.jpg" class="coffeecup" alt="Coffee" />
-  <iframe
-    id="meet"
-    src="https://www.vyte.in/johnmason?embed"
-    frameborder="0">https://www.vyte.in/johnmason
-  </iframe>
-</div>
+      <script charset="utf-8">
+var w = window,
+    d = document,
+    e = d.documentElement,
+    g = d.getElementsByTagName('body')[0],
+    x = w.innerWidth || e.clientWidth || g.clientWidth,
+    y = w.innerHeight || e.clientHeight || g.clientHeight,
+    p = document.location.pathname;
+
+// don't show header-container only on /meet page and on iframe's mobile view
+if (p === '/meet' && x < 600) {
+  document.getElementById('header-container').style.display = 'none'
+}
+</script>
+<iframe
+  id="meet"
+  src="https://www.vyte.in/johnmason?embed"
+  style="position: fixed; top: 0px; left: 0px; bottom: 0px; width: 100%; height: 100%; border: none; margin: 0; padding: 0; overflow: hidden; z-index: 500;"
+  frameborder="0">https://www.vyte.in/johnmason
+</iframe>
 
     </div>
   </body>
