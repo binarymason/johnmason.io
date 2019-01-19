@@ -4,10 +4,24 @@
   <id>https://johnmason.io/blog</id>
   <link href="https://johnmason.io/blog"/>
   <link href="https://johnmason.io/feed.xml" rel="self"/>
-  <updated>2019-01-18T05:00:00-05:00</updated>
+  <updated>2019-01-19T08:34:00-05:00</updated>
   <author>
     <name>John Mason</name>
   </author>
+  <entry>
+    <title>What is good?</title>
+    <link rel="alternate" href="https://johnmason.io/blog/2019/01/what-is-good/"/>
+    <id>https://johnmason.io/blog/2019/01/what-is-good/</id>
+    <published>2019-01-19T08:34:00-05:00</published>
+    <updated>2019-01-19T08:37:34-05:00</updated>
+    <author>
+      <name>John Mason</name>
+    </author>
+    <content type="html">&lt;p&gt;As a technology professional, I am tasked with improving things.  Everywhere, everyday there are things that need improvement.  Therefore, it's all to easy to focus on what is lacking.&lt;/p&gt;
+
+&lt;p&gt;But what about the things that are already GOOD? Reflecting on those things bring fulfillment.&lt;/p&gt;
+</content>
+  </entry>
   <entry>
     <title>You are probably wasting time</title>
     <link rel="alternate" href="https://johnmason.io/blog/2019/01/you-are-probably-wasting-time/"/>
@@ -83,25 +97,6 @@ Painters get better by painting more.&lt;/p&gt;
     <content type="html">&lt;p&gt;Inputs make outputs. Make experiments where you compare an outcome to the actions you made.&lt;/p&gt;
 
 &lt;p&gt;If you are happy with the outcome, keep doing what you're doing, otherwise start doing something else.&lt;/p&gt;
-</content>
-  </entry>
-  <entry>
-    <title>Negative Space</title>
-    <link rel="alternate" href="https://johnmason.io/blog/2018/01/negative-space/"/>
-    <id>https://johnmason.io/blog/2018/01/negative-space/</id>
-    <published>2018-01-07T06:37:00-05:00</published>
-    <updated>2019-01-18T21:52:03-05:00</updated>
-    <author>
-      <name>John Mason</name>
-    </author>
-    <content type="html">&lt;p&gt;Beauty often stems from the contrast of negativity.&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;What would music be without moments of silence?&lt;/li&gt;
-  &lt;li&gt;What would dancing be without moments of stillness?&lt;/li&gt;
-  &lt;li&gt;What would graphical art be without negative space?&lt;/li&gt;
-  &lt;li&gt;What would victory be without the possibility of defeat?&lt;/li&gt;
-&lt;/ul&gt;
 </content>
   </entry>
 </feed>
