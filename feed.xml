@@ -4,16 +4,29 @@
   <id>https://johnmason.io/blog</id>
   <link href="https://johnmason.io/blog"/>
   <link href="https://johnmason.io/feed.xml" rel="self"/>
-  <updated>2019-01-19T08:34:00-05:00</updated>
+  <updated>2019-01-22T17:40:00-05:00</updated>
   <author>
     <name>John Mason</name>
   </author>
+  <entry>
+    <title>Personal development is awkward</title>
+    <link rel="alternate" href="https://johnmason.io/blog/2019/01/personal-development-is-awkward/"/>
+    <id>https://johnmason.io/blog/2019/01/personal-development-is-awkward/</id>
+    <published>2019-01-22T17:40:00-05:00</published>
+    <updated>2019-01-22T17:44:37-05:00</updated>
+    <author>
+      <name>John Mason</name>
+    </author>
+    <content type="html">&lt;p&gt;We think personal development is an enjoyment process.  Why wouldn't getting closer to our ideal selves be a nice experience?
+Because growth has an awkward middle adolescent phase.  When you look at yourself at that phase, you can't help but feel disappointed.&lt;/p&gt;
+</content>
+  </entry>
   <entry>
     <title>What is good?</title>
     <link rel="alternate" href="https://johnmason.io/blog/2019/01/what-is-good/"/>
     <id>https://johnmason.io/blog/2019/01/what-is-good/</id>
     <published>2019-01-19T08:34:00-05:00</published>
-    <updated>2019-01-19T08:37:34-05:00</updated>
+    <updated>2019-01-22T17:39:32-05:00</updated>
     <author>
       <name>John Mason</name>
     </author>
@@ -27,7 +40,7 @@
     <link rel="alternate" href="https://johnmason.io/blog/2019/01/you-are-probably-wasting-time/"/>
     <id>https://johnmason.io/blog/2019/01/you-are-probably-wasting-time/</id>
     <published>2019-01-18T05:00:00-05:00</published>
-    <updated>2019-01-18T21:52:03-05:00</updated>
+    <updated>2019-01-22T17:39:32-05:00</updated>
     <author>
       <name>John Mason</name>
     </author>
@@ -41,7 +54,7 @@
     <link rel="alternate" href="https://johnmason.io/blog/2018/06/maybe-you-dont-need-help/"/>
     <id>https://johnmason.io/blog/2018/06/maybe-you-dont-need-help/</id>
     <published>2018-06-19T06:00:00-04:00</published>
-    <updated>2019-01-18T21:52:03-05:00</updated>
+    <updated>2019-01-22T17:39:32-05:00</updated>
     <author>
       <name>John Mason</name>
     </author>
@@ -55,7 +68,7 @@
     <link rel="alternate" href="https://johnmason.io/blog/2018/01/heartfulness/"/>
     <id>https://johnmason.io/blog/2018/01/heartfulness/</id>
     <published>2018-01-10T06:16:00-05:00</published>
-    <updated>2019-01-18T21:52:03-05:00</updated>
+    <updated>2019-01-22T17:39:32-05:00</updated>
     <author>
       <name>John Mason</name>
     </author>
@@ -71,7 +84,7 @@
     <link rel="alternate" href="https://johnmason.io/blog/2018/01/do-to-become-better/"/>
     <id>https://johnmason.io/blog/2018/01/do-to-become-better/</id>
     <published>2018-01-09T20:03:00-05:00</published>
-    <updated>2019-01-18T21:52:03-05:00</updated>
+    <updated>2019-01-22T17:39:32-05:00</updated>
     <author>
       <name>John Mason</name>
     </author>
@@ -83,20 +96,6 @@ Painters get better by painting more.&lt;/p&gt;
 
 &lt;p&gt;Do more of that.&lt;/p&gt;
 
-</content>
-  </entry>
-  <entry>
-    <title>Experiment</title>
-    <link rel="alternate" href="https://johnmason.io/blog/2018/01/experiment/"/>
-    <id>https://johnmason.io/blog/2018/01/experiment/</id>
-    <published>2018-01-08T06:22:00-05:00</published>
-    <updated>2019-01-18T21:52:03-05:00</updated>
-    <author>
-      <name>John Mason</name>
-    </author>
-    <content type="html">&lt;p&gt;Inputs make outputs. Make experiments where you compare an outcome to the actions you made.&lt;/p&gt;
-
-&lt;p&gt;If you are happy with the outcome, keep doing what you're doing, otherwise start doing something else.&lt;/p&gt;
 </content>
   </entry>
 </feed>
